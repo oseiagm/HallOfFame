@@ -1,6 +1,6 @@
 body {
     padding: 2%;
-    background-color: darkslategray;
+    background-color: rgb(55, 184, 184);
 }
 
 h1 {
@@ -23,7 +23,7 @@ h1 {
 }
 
 .card:hover{
-    box-shadow: 3px 3px 10px orange;
+    box-shadow: 3px 3px 10px rgb(193, 214, 72);
 }
 
 
